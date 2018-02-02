@@ -39,7 +39,7 @@
             android:ems="10"
             android:gravity="center"
             android:inputType="textPersonName"
-            android:text="ADD +" />
+            android:text="ADD " />
 
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>
