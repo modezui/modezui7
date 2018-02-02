@@ -9,7 +9,9 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/dfsg">
+        android:background="@drawable/dfzgsd"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
 
         <TextView
             android:id="@+id/textView2"
@@ -37,7 +39,7 @@
             android:ems="10"
             android:gravity="center"
             android:inputType="textPersonName"
-            android:text="ADD" />
+            android:text="ADD +" />
 
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>
